@@ -8,4 +8,6 @@ A Weather App, users of the app are able to search a city and see the forecast f
 - RXJava3
 - Fragment Navigation
 - Retrofit
+- Recyclerview
+- GeoCoder
  
