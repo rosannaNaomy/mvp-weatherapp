@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="forecast_noResults_error_msg">Sorry, no results found. Please try your search again.</string>
+    <string name="forecast_noNetworkConnection_error_msg">Sorry, seems the Network is not available. Please check your internet connection and try again soon.</string>
+    <string name="night_home_title">Night</string>
+    <string name="home_current_temp">85℉</string>
+    <string name="home_today_title">Today in New York</string>
+    <string name="home_night_temp">74℉</string>
+    <string name="home_current_temp_description">Clear Sky</string>
+    <string name="home_search_button_title">Search by City</string>
+    <string name="search_title">Check weather by city</string>
+    <string name="enter_city_hint_edit_search">Enter City</string>
+    <string name="search_button_title">submit</string>
+</resources>
